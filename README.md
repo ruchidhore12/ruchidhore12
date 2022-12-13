@@ -11,6 +11,7 @@
 </a>
 
 <br />
+<hr>
 
 - 💻 Worked as a Full Stack Developer for 7 years at ThoughtWorks, Siemens and Tech Mahindra
 - 🎒 Back to Studies! Currently, a Computer Science Graduate Student at Santa Clara University
