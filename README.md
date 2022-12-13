@@ -61,4 +61,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ruchidhore12&show_icons=true&theme=gotham" alt="ruchidhore12"/>
 
-![Snake animation](https://github.com/ruchidhore12/ruchidhore12/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/ruchidhore12/ruchidhore12/blob/output/github-contribution-grid-snake.svg) -->
