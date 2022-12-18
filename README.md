@@ -1,4 +1,4 @@
-### Annyeong, I am Ruchi!
+### Hello, I am Ruchi!
 
 <a href="https://www.instagram.com/ruchidhore/">
     <img align="left" alt="Ruchi Dhore | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
