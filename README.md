@@ -1,16 +1,5 @@
 ### Hello, I am Ruchi!
 
-<a href="https://www.instagram.com/ruchidhore/">
-    <img align="left" alt="Ruchi Dhore | Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png"/>
-</a>
-<a href="https://www.linkedin.com/in/ruchi-dhore/">
-    <img align="left" alt="Ruchi Dhore | Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"/>
-</a>
-<a href="https://twitter.com/ruchi_dhore">
-    <img align="left" alt="Ruchi Dhore | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"/>
-</a>
-
-<br />
 <hr>
 
 - 💻 Worked as a Full Stack Developer for 7 years at ThoughtWorks, Siemens and Tech Mahindra
