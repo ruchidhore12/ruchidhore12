@@ -2,13 +2,12 @@
 
 <hr>
 
-- 💻 Worked as a Full Stack Developer for 7 years at ThoughtWorks, Siemens and Tech Mahindra
+- 💻 Worked as a Full Stack Developer for 7 years at Tesla, ThoughtWorks, Siemens and Tech Mahindra
 - 🎒 Back to Studies! Currently, a Computer Science Graduate Student at Santa Clara University
 - ✉️ How to reach me: Drop a mail to ruchidhore93@gmail.com
 - 👾 Ask me about anything!
 - 🐱 Pronouns: She/Her
 - ⚡ Strange fact: Obsessed with cats, kdramas and colors!
-- 🎨 I occasionally (rarely) post my art on <a href="https://www.threadless.com/@ruchidhore93">Threadless</a>
 
 ### 🖥 Technical Skills acquired since 7th Grade 
 <table>
