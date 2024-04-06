@@ -2,7 +2,7 @@
 
 <hr>
 
-- 💻 Worked as a Full Stack Developer for 7 years at Tesla, ThoughtWorks, Siemens and Tech Mahindra
+- 💻 A Full Stack Developer
 - 🎒 Back to Studies! Currently, a Computer Science Graduate Student at Santa Clara University
 - ✉️ How to reach me: Drop a mail to ruchidhore93@gmail.com
 - 👾 Ask me about anything!
