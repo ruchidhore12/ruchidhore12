@@ -9,7 +9,7 @@
 - 🐱 Pronouns: She/Her
 - ⚡ Strange fact: Obsessed with cats, kdramas and colors!
 
-### 🖥 Technical Skills acquired since 7th Grade 
+### 🖥 Technical Skills Acquired 
 <table>
     <tr>
         <td>Backend</td>
