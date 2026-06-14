@@ -3,10 +3,8 @@
 <hr>
 
 - 💻 Full Stack Developer
-- 🎒 Back to Studies! Currently, a Computer Science Graduate Student at Santa Clara University
-- ✉️ How to reach me: Drop a mail to ruchidhore93@gmail.com
+- ✉️ How to reach me: Drop an email to ruchidhore93@gmail.com
 - 🐱 Pronouns: She/Her
-- ⚡ Strange fact: Obsessed with cats, kdramas and colors!
 
 ### 🖥 Technical Skills Acquired 
 <table>
