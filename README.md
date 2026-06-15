@@ -3,7 +3,6 @@
 <hr>
 
 - 💻 Full Stack Developer
-- ✉️ How to reach me: Drop an email to ruchidhore93@gmail.com
 - 🐱 Pronouns: She/Her
 
 ### 🖥 Technical Skills Acquired 
